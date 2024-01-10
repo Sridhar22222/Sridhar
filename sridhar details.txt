@@ -1,0 +1,26 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <center>
+      <h1>MALLISETTY SRIDHAR</h1></CENTER><br><p  
+        align="right">Email:<a href>sridharmallisettysridhar2222@gmail.com</a><br>
+   <p align="right"> Phone Number: 6305945576 </p>
+    <h2><center>Educaation</center></h2>
+    <h3><center><font color="red">MCA</font></center></h3>
+ <center>  I completed my MCA Audisankara Institute of Technology 2022 passed in Gudur.</center>
+     <h3><center><font color="red">DEGREE</font></center></h3>
+      <center> I completed my Intermidate Kakathiya JunDegreeior College. Group BSC 2020 paassed in podalakur.</center>
+    <h3><center><font color="red">INTERMIDATE</font></center></h3>
+      <center> I completed my Intermidate Kakathiya Junior College. Group MPCS 2017 paassed in podalakur.</center>
+     <h3><center><font color="red">SSC</font></center></h3>
+      <center> I completed my 10th class Chithanya High School. 2016 paassed in podalakur.</center>
+  <center>  <h2>SKILLS</h2> </center>
+    <br><br> Manual Testing</br>
+      Automation Testing</br>
+Basics of HTML<br>
+    Basics of CSS
+     
+      
+        
+    
